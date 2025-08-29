@@ -1,1 +1,3 @@
-.idea
+results/
+test/
+train_log/
