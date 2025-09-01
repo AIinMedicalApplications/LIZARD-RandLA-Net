@@ -7,8 +7,9 @@
 ## Short Description
 Trained pyhton network for geometric deep learning-based prediction of the liver resection zone. 
 The detailed description of the computation can be found n the article "Geometric Deep Learning Adapted to Prediction of Liver Resection Zone" by Joy Rakshit, Robert Kreher, Tobias Huber, Hauke Lang, Florentine Huettl and Sylvia
-Saalfeld 2025. Please also consider (and cite) [https://github.com/MIC-DKFZ/nnUNet](https://github.com/QingyongHu/RandLA-Net) since our approach is based on it.
+Saalfeld 2025. Please also consider the (and cite) [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) since our approach is based on it.
 
+This project is part of the LIZARD project, funded by the DFG [link to project summary](https://gepris.dfg.de/gepris/projekt/547369510).
 
 
 <!-- ## How to cite
