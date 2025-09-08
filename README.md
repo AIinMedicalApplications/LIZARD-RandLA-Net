@@ -1,6 +1,6 @@
 # LIZARD RandLA-Net
 
-This repository adapts the RandLA-Net framework (originally for the Semantic3D dataset) for the **LIZARD project**: *Liver resection zone prediction using image-based and geometric deep learning* (DFG Project No. 547369510).
+This repository adapts the [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) framework (originally for the Semantic3D dataset) for the **LIZARD project**: *Liver resection zone prediction using image-based and geometric deep learning* (DFG Project No. 547369510).
 
 ### Project Goal
 
