@@ -12,3 +12,11 @@ This repository adapts the [RandLA-Net](https://github.com/QingyongHu/RandLA-Net
 ## Example of Input and Output Data
 
 ![Demo](sample/Sample.gif)
+
+## Pretrain Weights
+
+Pretrain weights can be found [here](https://github.com/joyrksht/LIZARD-RandLA-Net/tree/main/results/Log_2025-07-08_16-05-43/snapshots)
+
+## Acknowledgment
+
+Implementation adapted from the [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) codebase.
